@@ -63,7 +63,7 @@
 
 | 🎓 Degree | 🏫 Institution | 📅 Duration | 📊 Score |
 |:---:|:---:|:---:|:---:|
-| B.Tech in `CSE` | `SASTRA Deemded University` | `2023 - 2027` | `7.93` |
+| B.Tech in `CSE` | `SASTRA Deemed University` | `2023 - 2027` | `7.93` |
 | Higher Secondary | `Dr. G S Kalyanasundaram Memorial School` | `2022-23` | `83.2` |
 
 </div>
@@ -153,6 +153,7 @@
 </div>
 
 <!-- ================= CONTRIBUTION SNAKE ================= -->
+<!-- 
 <div align="center">
 
 ### 🐍 Contribution Snake
@@ -166,6 +167,8 @@
 -->
 
 </div>
+
+-->
 
 <!-- ================= CODING PROFILES ================= -->
 <div align="center">
@@ -187,7 +190,7 @@
 
 <a href="mailto:sivasuryaswi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<a href="https://your-resume-link.com/resume.pdf"><img src="https://img.shields.io/badge/Resume-2ECC71?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+<a href="https://github.com/SuryaAIDev/SuryaAIDev/blob/main/227003136_Sivasurya%20S.pdf"><img src="https://img.shields.io/badge/Resume-2ECC71?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
 
 </div>
 
@@ -196,20 +199,11 @@
 
 ### 👁️ Visitor Count
 
-<img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=00C2FF" />
+<img src="https://komarev.com/ghpvc/?username=SuryaAIDev&style=for-the-badge&color=00C2FF" />
 
 </div>
 
-<!-- ================= SUPPORT ================= -->
-<div align="center">
 
-### ☕ Support Me
-
-<a href="https://www.buymeacoffee.com/your-username">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
-</a>
-
-</div>
 
 <!-- ================= QUOTE ================= -->
 <div align="center">
