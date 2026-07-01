@@ -129,13 +129,7 @@
 
 </td>
 </tr>
-<tr>
-<td width="50%">
 
-
-
-</td>
-</tr>
 </table>
 
 <!-- ================= GITHUB STATS ================= -->
@@ -164,7 +158,7 @@
   NOTE: To enable the snake animation, set up the GitHub Action from:
   https://github.com/Platane/snk
   in a repo named exactly "your-username/your-username"
--->
+
 
 </div>
 
